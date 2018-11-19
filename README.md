@@ -1,2 +1,4 @@
 # GooglePythonCourse
-my solutions for google python course excercises (python 3.6)
+my solutions for google python course exercises (in python 3.7)
+
+https://developers.google.com/edu/python/
